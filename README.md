@@ -19,7 +19,7 @@ Also included are the following:
 - testenv: information on the current testing environment.
 - testscript: 
 
-This is a fork/hacked up version of https://github.com/rogpeppe/go-internal as a toplevel testscript/ minimal module - keeping up with upstream with a few minor changes (like allowing "!foo" to work instead of requiring "! foo" etc)
+This is a fork/hacked up version of https://github.com/rogpeppe/go-internal as a toplevel testscript/ minimal module - keeping up with upstream with a few minor changes (like allowing "!foo" to work instead of requiring "! foo", a lot fewer dependencies/code outside of standard package (so no `unquote` for instance), etc)
 
 ## Links
 <!-- 
