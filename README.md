@@ -21,6 +21,10 @@ Also included are the following:
 
 This is a fork/hacked up version of https://github.com/rogpeppe/go-internal as a toplevel testscript/ minimal module - keeping up with upstream with a few minor changes (like allowing "!foo" to work instead of requiring "! foo" etc)
 
-# Links
+## Links
+<!-- 
+note this shows up in Links header section of https://pkg.go.dev/fortio.org/testscript 
+so while redundant with the above inline link, let's keep that section (TIL)
+-->
 
 - [Test scripts in Go](https://bitfieldconsulting.com/golang/test-scripts)
